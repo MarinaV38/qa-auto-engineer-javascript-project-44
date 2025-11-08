@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/code",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "[![Actions Status](https://github.com/MarinaV38/qa-auto-engineer-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/MarinaV38/qa-auto-engineer-javascript-project-44/actions)",
   "type": "module",
   "main": "index.js",
@@ -12,7 +12,8 @@
   "author": "Marina",
   "license": "ISC",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "repository": {
     "type": "git",
