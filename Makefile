@@ -1,4 +1,4 @@
-.PHONY: install brain-games brain-even brain-calc brain-gcd brain-progression publish lint
+.PHONY: install brain-games brain-even brain-calc brain-gcd brain-progression brain-prime publish lint
 
 install:
 	npm ci
@@ -17,6 +17,9 @@ brain-gcd:
 
 brain-progression:
 	node bin/brain-progression.js
+
+brain-prime:
+	node bin/brain-prime.js
 
 publish:
 	npm publish --dry-run

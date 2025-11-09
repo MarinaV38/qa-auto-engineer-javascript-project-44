@@ -10,6 +10,7 @@
 - `brain-calc` — вычисляем результат случайного выражения с операциями `+`, `-`, `*`. Запуск локально: `make brain-calc`.
 - `brain-gcd` — ищем наибольший общий делитель двух чисел. Запуск локально: `make brain-gcd`.
 - `brain-progression` — восстанавливаем пропущенный элемент случайной арифметической прогрессии. Запуск локально: `make brain-progression`.
+- `brain-prime` — определяем, является ли случайное число простым. Запуск локально: `make brain-prime`.
 
 ### Демонстрация brain-even
 
@@ -26,3 +27,7 @@
 ### Демонстрация brain-progression
 
 [![asciinema](https://asciinema.org/a/PLACEHOLDER_PROGRESSION.svg)](https://asciinema.org/a/PLACEHOLDER_PROGRESSION)
+
+### Демонстрация brain-prime
+
+[![asciinema](https://asciinema.org/a/PLACEHOLDER_PRIME.svg)](https://asciinema.org/a/PLACEHOLDER_PRIME)
