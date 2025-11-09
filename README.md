@@ -24,11 +24,11 @@ make install
 sudo npm link
 
 # Запуск игр:
-make brain-even
-make brain-calc
-make brain-gcd
-make brain-progression
-make brain-prime
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
 ```
 
 ### Игры проекта
