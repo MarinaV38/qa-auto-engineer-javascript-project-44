@@ -1,9 +1,37 @@
-### Hexlet tests and linter status:
+### Hexlet tests и качество кода
 [![Actions Status](https://github.com/MarinaV38/qa-auto-engineer-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/MarinaV38/qa-auto-engineer-javascript-project-44/actions)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MarinaV38_qa-auto-engineer-javascript-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=MarinaV38_qa-auto-engineer-javascript-project-44)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MarinaV38_qa-auto-engineer-javascript-project-44&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MarinaV38_qa-auto-engineer-javascript-project-44)
 
-## Игры проекта
+### Brain Games на JavaScript
+
+Сборник консольных мини-игр для прокачки логики и навыков работы с Node.js. Каждая игра задаёт три вопроса подряд. Неправильный ответ завершает попытку и показывает корректный результат.
+
+### Используемые технологии
+
+- Node.js + npm — запуск, установка и публикация CLI-пакета.
+- ECMAScript Modules, eslint (Stylistic rules) — поддержание единого стиля кода.
+- readline-sync — взаимодействие с пользователем через консоль.
+- GitHub Actions и SonarCloud — автоматическая проверка и мониторинг качества.
+
+### Установка и запуск
+
+```bash
+# Установка игр:
+git clone https://github.com/MarinaV38/qa-auto-engineer-javascript-project-44.git
+cd qa-auto-engineer-javascript-project-44
+make install
+sudo npm link
+
+# Запуск игр:
+make brain-even
+make brain-calc
+make brain-gcd
+make brain-progression
+make brain-prime
+```
+
+### Игры проекта
 
 - `brain-games` — приветствие и знакомство с игроком.
 - `brain-even` — определяем, является ли случайное число чётным (правильный ответ: `yes` или `no`). Для локального запуска используйте `make brain-even`.
