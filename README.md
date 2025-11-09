@@ -8,6 +8,7 @@
 - `brain-games` — приветствие и знакомство с игроком.
 - `brain-even` — определяем, является ли случайное число чётным (правильный ответ: `yes` или `no`). Для локального запуска используйте `make brain-even`.
 - `brain-calc` — вычисляем результат случайного выражения с операциями `+`, `-`, `*`. Запуск локально: `make brain-calc`.
+- `brain-gcd` — ищем наибольший общий делитель двух чисел. Запуск локально: `make brain-gcd`.
 
 ### Демонстрация brain-even
 
@@ -17,3 +18,6 @@
 
 [![asciinema](https://asciinema.org/a/PLACEHOLDER_CALC.svg)](https://asciinema.org/a/PLACEHOLDER_CALC)
 
+### Демонстрация brain-gcd
+
+[![asciinema](https://asciinema.org/a/PLACEHOLDER_GCD.svg)](https://asciinema.org/a/PLACEHOLDER_GCD)
