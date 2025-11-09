@@ -7,7 +7,13 @@
 
 - `brain-games` — приветствие и знакомство с игроком.
 - `brain-even` — определяем, является ли случайное число чётным (правильный ответ: `yes` или `no`). Для локального запуска используйте `make brain-even`.
+- `brain-calc` — вычисляем результат случайного выражения с операциями `+`, `-`, `*`. Запуск локально: `make brain-calc`.
 
 ### Демонстрация brain-even
 
+[![asciinema](https://asciinema.org/a/PLACEHOLDER_EVEN.svg)](https://asciinema.org/a/PLACEHOLDER_EVEN)
+
+### Демонстрация brain-calc
+
+[![asciinema](https://asciinema.org/a/PLACEHOLDER_CALC.svg)](https://asciinema.org/a/PLACEHOLDER_CALC)
 
