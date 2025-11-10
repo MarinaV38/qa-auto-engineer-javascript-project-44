@@ -46,16 +46,16 @@ brain-prime
 
 ### Демонстрация brain-calc
 
-[![asciinema](https://asciinema.org/a/PLACEHOLDER_CALC.svg)](https://asciinema.org/a/PLACEHOLDER_CALC)
+[![asciicast](https://asciinema.org/a/0u5Nor2eNKnIgwLkEQ4ceY6RV.svg)](https://asciinema.org/a/0u5Nor2eNKnIgwLkEQ4ceY6RV)
 
 ### Демонстрация brain-gcd
 
-[![asciinema](https://asciinema.org/a/PLACEHOLDER_GCD.svg)](https://asciinema.org/a/PLACEHOLDER_GCD)
+[![asciicast](https://asciinema.org/a/rbu3ArBRPPUUeso7F2G5dahqe.svg)](https://asciinema.org/a/rbu3ArBRPPUUeso7F2G5dahqe)
 
 ### Демонстрация brain-progression
 
-[![asciinema](https://asciinema.org/a/PLACEHOLDER_PROGRESSION.svg)](https://asciinema.org/a/PLACEHOLDER_PROGRESSION)
+[![asciicast](https://asciinema.org/a/PmL8pp5YB9JPCCqMA5OCdOOkc.svg)](https://asciinema.org/a/PmL8pp5YB9JPCCqMA5OCdOOkc)
 
 ### Демонстрация brain-prime
 
-[![asciinema](https://asciinema.org/a/PLACEHOLDER_PRIME.svg)](https://asciinema.org/a/PLACEHOLDER_PRIME)
+[![asciicast](https://asciinema.org/a/zIGcBhKjUOEwyD0Wd8Wb8H5zn.svg)](https://asciinema.org/a/zIGcBhKjUOEwyD0Wd8Wb8H5zn)
