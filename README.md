@@ -42,7 +42,7 @@ brain-prime
 
 ### Демонстрация brain-even
 
-[![asciinema](https://asciinema.org/a/PLACEHOLDER_EVEN.svg)](https://asciinema.org/a/PLACEHOLDER_EVEN)
+[![asciicast](https://asciinema.org/a/60E43E7kikY1d7w5AkpSxh8yN.svg)](https://asciinema.org/a/60E43E7kikY1d7w5AkpSxh8yN)
 
 ### Демонстрация brain-calc
 
