@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.7.0",
-  "description": "[![Actions Status](https://github.com/MarinaV38/qa-auto-engineer-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/MarinaV38/qa-auto-engineer-javascript-project-44/actions)",
+  "description": "Консольные мини-игры Brain Games: проверка на четность, калькулятор, НОД, прогрессия и простые числа.",
   "type": "module",
   "main": "index.js",
   "scripts": {
